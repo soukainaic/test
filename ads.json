@@ -1,0 +1,36 @@
+{
+
+  "ads":[
+    {
+      "AdmobInterstitial":"ca-app-pub-3275007538096659/1175898994",
+      "AdmobBanner":"ca-app-pub-3275007538096659/8483543373",
+      "AdmobNative" : "ca-app-pub-3275007538096659/6045082291",
+
+      "FaceInterstitial":"",
+      "FaceBanner":"",
+      "FaceNative" : "",
+
+      "UnityGame":"",
+      "UnityInterstitial":"Interstitial_Android",
+      "UnityBanner":"Banner_Android",
+
+      "ApplovinInterstitial":"",
+      "ApplovinBanner":"",
+       
+      "ApplovinInterstitialMax":"",
+      "ApplovinBannerMax":"",
+      "ApplovinNativeMax" : "",
+
+      "IronInterstitial" : "",
+      "IronBanner" : "",
+	  
+	  
+     // admob or fan or max or unity or iron
+      "Network":"admob"
+	  
+ 
+    }
+  ]
+
+
+}
